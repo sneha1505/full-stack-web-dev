@@ -40,15 +40,16 @@ nav ul li{
 }
 
 .container{
-    min-height: 72vh;
-    background-color: rgb(88, 15, 88);
-    color: rgb(2, 1, 1);
+   min-height: 72vh;
+   background-color: rgb(88, 15, 88);
+   color: rgb(2, 1, 1);
    font-family: 'Varela Round', sans-serif;
    display: flex;
-   margin: 23px auto;
-   width: 70%;
+   margin: 30px auto;
+   width: 80%;
    border-radius: 12px;
-   padding: 34px;
+   padding: 30px;
+   margin-left: 6rem;
    background-image: url('bg.jpg');
    background-size: 800px;
    background-repeat: repeat-x;
@@ -93,7 +94,7 @@ nav ul li{
 
 .img2
 {
-  margin-left:40rem;
+  margin-left:45rem;
   margin-top:-10.8cm;
   background-image: url('img2.jfif');
   background-size:700px;
@@ -115,7 +116,7 @@ nav ul li{
 
 .img4
 {
-  margin-left:40rem;
+  margin-left:45rem;
    margin-top:-10.8cm;
   background-image: url('img4.jfif');
   background-size:585px;
@@ -134,7 +135,7 @@ nav ul li{
 
 .img6
 {
-  margin-left:40rem;
+  margin-left:45rem;
    margin-top:-10.8cm;
   background-image: url('img6.jfif');
   background-size:750px;
@@ -151,7 +152,7 @@ nav ul li{
 }
 .img8
 {
-  margin-left:40rem;
+  margin-left:45rem;
    margin-top:-10.8cm;
   background-image: url('img8.jfif');
   background-size:400px;
@@ -168,7 +169,7 @@ nav ul li{
 }
 .img10
 {
-  margin-left:40rem;
+  margin-left:45rem;
    margin-top:-10.8cm;
   background-image: url('img10.jfif');
   background-size:600px;
@@ -186,7 +187,7 @@ nav ul li{
 
 .img12
 {
-  margin-left:40rem;
+  margin-left:45rem;
    margin-top:-10.8cm;
   background-image: url('img12.jpg');
   background-size:600px;
@@ -233,10 +234,9 @@ nav ul li{
 }
 
 .songItem{
-    height: 50px;
+    height: 52px;
     display: flex;
     background-color: white;
-    
     color: black;
     margin: 12px 0;
     justify-content: space-between;
